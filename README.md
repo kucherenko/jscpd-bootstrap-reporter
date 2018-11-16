@@ -41,3 +41,5 @@ $ npm run fix
 ```bash
 $ npm run prepare-release
 ```
+
+[MIT](LICENSE) © Andrey Kucherenko
